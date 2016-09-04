@@ -2,8 +2,8 @@
 layout: blog
 category: blog
 published: true
-splash: 'http://placehold.it/1600x500'
-title: Untitled
+splash: 'http://placekitten.com/1600/500'
+title: HELLO
 tags:
   - bananas
   - pears
